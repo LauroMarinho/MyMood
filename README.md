@@ -25,9 +25,15 @@
   <hr/>
 
   <h2>📱 Demo</h2>
-  <p><!-- https://github.com/LauroMarinho/MyMood/blob/8e32e1784c16f11dcf1b26d3e9b2af881307cdec/Pa%CC%81gina%20de%20ti%CC%81tulo-3.png --></p>
-  <ul>
-  </ul>
+  <p>
+    <img src="https://raw.githubusercontent.com/LauroMarinho/MyMood/0f4c4f39ac5b861451b40c978013964bc9669c34/Pa%CC%81gina%20de%20ti%CC%81tulo-3.png" alt="Página de título do MyMood" />
+  </p>
+
+  <h2>⬇️ Download</h2>
+  <p>
+    Baixe o MyMood na App Store:  
+    <a href="https://apps.apple.com/app/mymood/id6748285756">https://apps.apple.com/app/mymood/id6748285756</a>
+  </p>
 
   <h2>📝 Descrição</h2>
   <p>MyMood é um app para registrar e acompanhar seu humor ao longo do tempo. Com ele, você pode:</p>
@@ -115,8 +121,8 @@ cd meu-app-ios
 
   <h2>📫 Contato</h2>
   <p>
-    Lauro Marinho – <a href="mailto:marinho.lauroo@gmail.com">marinho.lauroo@gmail.com</a><br/>
-    <a href="www.linkedin.com/in/lauro-marinho-06869034a">LinkedIn</a>
+    Seu Nome – <a href="mailto:seu.email@exemplo.com">seu.email@exemplo.com</a><br/>
+    <a href="https://linkedin.com/in/SEU_PERFIL">LinkedIn</a> • <a href="https://twitter.com/SEU_PERFIL">Twitter</a>
   </p>
 
 </body>
