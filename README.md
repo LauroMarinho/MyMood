@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>MyMood – README</title>
-</head>
-<body>
+
 
   <h1>MyMood</h1>
   <p>Seu diário de humor e bem-estar.</p>
